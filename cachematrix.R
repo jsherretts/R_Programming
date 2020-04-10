@@ -1,5 +1,5 @@
 
-## The following is a pair of functions that cache and compute the 
+## The following is a pair of functions that can cache and compute the 
 ## inverse of a matrix.
 
 ## This function creates a special "matrix" object
